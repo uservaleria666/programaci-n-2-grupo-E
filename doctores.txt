@@ -1,0 +1,6 @@
+Valeria Guzman Molina|Traumatología|11|78086267|Hospital Norte|Femenino
+Alejandro Cavero Wintruff|Neurología|8|987567654|Hospital Central|Masculino
+Kristen Cabrera Quiroz|Pediatría|15|78654734|Clínica Vida|Femenino
+Arlet Pamela Garcia|Cardiología|5|65476578|Clínica Santa María|Femenino
+Gabriel Meza Huaman |Cardiología|2|78653987|Clínica Santa María|Masculino
+Santiago Rojas Salvatierra |Pediatría|3|78098676|Hospital Central|Masculino
