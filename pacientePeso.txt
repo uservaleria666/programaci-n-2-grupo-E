@@ -1,0 +1,5 @@
+Valeria Guzman|18-04-2006|19|Femenino|O-|Privado|Clinica Norte|72kg
+Kristen Cabrera|18-04-2007|18|Femenino|O+|Publico|Hospital Central|60kg
+Ignacio Leyton|23-06-2006|19|Femenino|B+|Ninguno|Centro Sur|90kg
+Mario Rojas|21-08-2007|18|Masculino|B+|Publico|Clinica Norte|50kg
+Jose Vargas|21-10-2005|20|Masculino|o+|Privado|Hospital Central|80kg
